@@ -37,6 +37,19 @@ nav {
   cursor: pointer;
 }
 
+.nav-button:hover {
+  background: radial-gradient(
+      105.07% 105.07% at 17.04% 0%,
+      rgba(0, 186, 226, 0.88) 0.67%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    radial-gradient(
+      97.83% 97.83% at 77.8% 100%,
+      rgba(0, 77, 226, 0.88) 0.67%,
+      rgba(0, 0, 0, 0) 100%
+    );
+}
+
 /* User card grid styles */
 .user-card-grid {
   display: grid;
