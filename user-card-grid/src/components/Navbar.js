@@ -2,9 +2,11 @@ import React from "react";
 
 const Navbar = ({ getUsers }) => {
   return (
-    <nav>
-      <div className="brand">Your Brand Name</div>
-      <button onClick={getUsers}>Get Users</button>
+    <nav className="navbar">
+      <div className="brand">UserGrid</div>
+      <button className="nav-button" onClick={getUsers}>
+        Get Users
+      </button>
     </nav>
   );
 };
