@@ -25,7 +25,7 @@ nav {
 
 .brand {
   font-size: 24px;
-  margin-right: 81%;
+  margin-right: 81%; /* Assuming this percentage is used to align the brand on the left */
 }
 
 .logo {
@@ -64,7 +64,7 @@ nav {
 
 /* Responsive navbar styles */
 @media (max-width: 768px) {
-  .navbar {
+  .navbar { /* Typo: should be ".nav" instead of ".navbar" */
     flex-direction: column;
     padding: 10px;
     text-align: center;
@@ -157,7 +157,7 @@ nav {
   color: #888;
 }
 
-/*New User card styles */
+/* New User card styles */
 .card {
   background-color: #fff;
   border-radius: 8px;

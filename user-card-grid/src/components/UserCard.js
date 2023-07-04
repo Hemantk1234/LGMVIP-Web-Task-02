@@ -2,6 +2,7 @@ import React from "react";
 
 const UserCard = ({ user }) => {
   return (
+    // User card component
     <div className="card">
       <div className="card-image">
         <img src={user.avatar} alt={user.first_name} />

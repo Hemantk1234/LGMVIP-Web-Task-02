@@ -2,6 +2,7 @@ import React from "react";
 
 const Navbar = ({ getUsers }) => {
   return (
+    // Navbar component
     <nav className="navbar">
       <div className="logo">
         <img src="/Logo1.jpg" alt="Logo" className="logo-image" />
