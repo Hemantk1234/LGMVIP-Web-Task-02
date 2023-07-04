@@ -27,8 +27,16 @@ const App = () => {
       <Navbar getUsers={getUsers} />
       <div className="user-card-grid">
         {loading ? (
-          <div className="loader">
-            <RingLoader color={"#4a5c6c"} loading={loading} size={80} />
+          <div className="loader-container">
+            <div
+              className="loader"
+              style={{
+                display: "block",
+                margin: "0 auto",
+              }}
+            >
+              <RingLoader color={"#4a5c6c"} loading={loading} size={80} />
+            </div>
           </div>
         ) : (
           users.map((user) => <UserCard key={user.id} user={user} />)

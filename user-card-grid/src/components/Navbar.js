@@ -3,7 +3,10 @@ import React from "react";
 const Navbar = ({ getUsers }) => {
   return (
     <nav className="navbar">
-      <div className="brand">UserGrid</div>
+      <div className="logo">
+        <img src="/Logo1.jpg" alt="Logo" className="logo-image" />
+      </div>
+      <div className="brand">UserHub</div>
       <button className="nav-button" onClick={getUsers}>
         Get Users
       </button>
