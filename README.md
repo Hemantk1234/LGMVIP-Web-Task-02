@@ -1,14 +1,40 @@
+<!-- Created by ★ Hemant ★ -->
+
 # LGMVIP-Web-Task-02
 
-# Getting Started with Create React App
+<hr/>
+This UserHub project is a user directory application built using React. It uses an API to fetch user data and displays it on the web page. 
+Users can click a button to retrieve and display the user information. The application also features a responsive layout and attractive visual effects.
+<br/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 🔨 Tools Used
+
+It is built using [React JS]
+
+- Version Control System: Git
+- VCS Hosting: GitHub
+- Front-End: React.js
+- Integrated Development Environment: VSCode
+<hr/>
+<br/>
+
+## 👨‍💻 How to use this project
+
+Clone the project to your local machine or download the repository.
+Nodejs / NPM must be installed on your PC.
+Open the project in your favorite IDE (VS Code, Sublime Text, Atom, etc)
+
+### Install the dependencies
+
+Run the command below to install the dependencies
+`npm install`
+
+### Start the project
+
+Run the command below to Start the project
+`npm start`
 
 ## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
@@ -16,57 +42,59 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
-
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+<hr/>
+<br/>
 
-### `npm run eject`
+## 🔗 Links
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+> ##💁‍♂️ Checkout the Website [UserHub web Application](https://lgmvip-web-task-02.netlify.app/)
+>
+> <br/>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<hr/>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## ✌️ Screenshots
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### 🧑‍💻 Desktop Version
 
-## Learn More
+### 📲 Mobile / Tab Version
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<div align="center">
+    <img src="" width="400px"</img>
+    <img src="" width="400px"</img>
+    <img src="" width="400px"</img>
+</div>
+<br/>
+<hr/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## You can Learn More by...
 
-### Code Splitting
+- To learn React, check out the [React documentation](https://reactjs.org/).
+- To learn Bootstrap, check out the [Bootstrap documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/).
+- To learn React-Bootstrap, check out the [React-Bootstrap documentation](https://react-bootstrap.github.io/).
+- To learn React-Router-Dom, check out the [React-Router-Dom documentation](https://reactrouter.com/web/guides/quick-start).
+- To learn More abut react spinner(Loaders) check out the [React-Loader-Spinner documentation](https://www.npmjs.com/package/react-loader-spinner).
+  For loader i used Github repo [React-Loader-Spinner](https://github.com/davidhu2000/react-spinners).
+- Enjoy👍 :)
+<br/>
+<hr/>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 🐦 Follow Me:
 
-### Analyzing the Bundle Size
+> [Twitter](https://twitter.com/HemantkEtc116)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+> [LinkedIn](https://www.linkedin.com/in/hemant-kumbhalkar-87393b235/)
 
-### Making a Progressive Web App
+> [Sololearn](https://www.sololearn.com/profile/24572821)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+I hope you like the project. Thanks for reading🙋:)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<hr/>
+<br/>
